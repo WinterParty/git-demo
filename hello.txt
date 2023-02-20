@@ -6,4 +6,8 @@ hello git!
 hello git!
 hello git!
 hello git!3333
+<<<<<<< HEAD
 master
+=======
+hot-fix
+>>>>>>> hot-fix
